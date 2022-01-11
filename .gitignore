@@ -1,0 +1,7 @@
+*.cpp
+*.pyc
+*.npy
+BSDS300/
+deprecated/
+venv/
+__pycache__/
